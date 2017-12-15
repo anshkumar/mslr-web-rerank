@@ -1,6 +1,6 @@
 # Instructions
 
-Make sure you have all the Fold 1 files (train.txt, vali.txt, test.txt) in this working directory.
+Make sure you have all the Fold 1 files (train.txt, vali.txt, test.txt) in this working directory. You may also try other Folds in MSLR-WEB.
 
 Since our R program only takes CSV inputs, use libsvm2csv.sh to transform the LibSVM format (default by MSLR-WEB) into CSV format.
 ```

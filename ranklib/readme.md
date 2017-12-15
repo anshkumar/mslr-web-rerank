@@ -1,6 +1,8 @@
 # Instructions: How to Use the Scripts
 
 Make sure you have the Fold 1 files (train.txt, vali.txt, test.txt) in this working directory.
+You may also try other Folds in MSLR-WEB.
+
 Create two folders: models, and ranklib:
 ```
 mkdir models
